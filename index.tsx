@@ -15,7 +15,7 @@ import {
   airdrop,
   getCurrentGame,
   saveClick,
-} from "../lib/clicker-anchor-client";
+} from "./lib/clicker-anchor-client";
 import ExternalLink from "@/components/ExternalLink";
 
 const Home: NextPage = () => {
